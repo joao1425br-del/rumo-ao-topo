@@ -1,0 +1,7 @@
+{
+  "appId": "com.exemplo.rumoaotopo",
+  "appName": "Rumo ao Topo",
+  "webDir": "www",
+  "backgroundColor": "#06031a",
+  "android": { "allowMixedContent": false }
+}

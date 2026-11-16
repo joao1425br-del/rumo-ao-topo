@@ -1,0 +1,16 @@
+{
+  "name": "rumo-ao-topo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node tests/test.mjs",
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
